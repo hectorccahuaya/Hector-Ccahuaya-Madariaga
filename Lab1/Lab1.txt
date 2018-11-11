@@ -1,0 +1,14 @@
+Ccahuaya Madariaga Hector Luis
+Observaciones:
+•	Para poder crear nuestra página web es necesario tener un editor de código de fuente de código abierto.
+•	Sublime nos permite alterar los componentes de nuestra página web de una manera organizada y rápida.
+•	Al crear nuestro proyecto, laravel genera todos los documentos requeridos para la pagina web. 
+•	Laravel posee una gran cantidad de librerías para nuestro desarrollo de la página web.
+•	Laravel presenta varias características ventajosas como ORM muy eficaz, un autentificado simple, etc.
+
+Conclusiones:
+•	Para realizar las pruebas necesitamos de un servidor Apache con lenguaje de programación PHP en este caso utilizamos Wamp.
+•	Laravel es uno de los frameworks de código abierto para el uso de PHP.
+•	Composer es el manejador de dependencias y paquetes de PHP instalar y manejar las dependencias de laravel 
+•	Para realizar una prueba de cómo se va desarrollando nuestra página se tiene que levantar el servidor y luego ir a la dirección de local host junto con el nombre del proyecto.
+•	Laravel presenta un fácil enrutamiento más parecido a ruby on Rails.

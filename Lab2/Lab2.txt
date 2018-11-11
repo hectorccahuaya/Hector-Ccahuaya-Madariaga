@@ -1,0 +1,14 @@
+Nombre: Ccahuaya Madariaga Hector Luis 
+Laboratorio Nro 2
+
+Concluciones 
+-Se genera por defecto todas las clases necesarias para el dise;o de la pagina web
+-Al editar vimos que se creo ya la clase validacion y password pero eliminamos pasword  ya que nosotros mismos controlaremos esa parte del codigo
+-Wammp genera una base de datos MySQL que nos permite obtener una base de datos local conectada a nuestro proyecto
+-En la clase  env. se configura la base de datos que utilizaremos junto con el usuario y la contrase;a respectiva.
+-Para generar las modelos se nombran sus respectivas lineas en la clase que le corresponde.
+Observaciones:
+-El lenguaje PHP mayormente tiene el comienzo de $ en las variables o en las declaraciones de las respectivas tablas.
+-PHP permite la creacion de variebles ya sean locales y glovales para que nos permitan manejar los datos.
+-Las relaciones de cardinalidad se crean en las clases donde generamos nuestras tablas.
+-PHP artisan list es el comando para poder mostrarnos la gran variedad de comandos que nos permite utilizar artisan.
