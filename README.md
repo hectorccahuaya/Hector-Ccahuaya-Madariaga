@@ -1,1 +1,0 @@
-# Hector-Ccahuaya-Madariaga

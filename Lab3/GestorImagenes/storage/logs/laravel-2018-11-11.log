@@ -1,0 +1,54 @@
+[2018-11-11 02:19:01] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 02:20:35] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 02:28:30] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 02:34:27] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 02:42:42] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 02:57:21] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 03:12:31] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 03:12:41] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 03:19:04] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 03:19:19] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 03:19:27] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 03:20:36] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 03:32:27] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 03:34:08] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 03:34:17] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 04:01:25] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 04:05:39] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
+[2018-11-11 04:41:40] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING)' in C:\wamp64\www\GestorImagenes\app\Foto.php:3
+Stack trace:
+#0 {main}  
