@@ -1,1 +1,0 @@
-•	Respuesta a la pregunta 1 = Este comando nos permitió insertar datos a la base de datos en este caso ejecutamos dicho comando y agregamos varias veces los datos a las tablas.
