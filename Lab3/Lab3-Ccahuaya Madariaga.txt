@@ -1,0 +1,12 @@
+Conclusiones 
+•	Los controladores permiten mostrarnos como podemos re direccionar al usuario.
+•	Las vistas permiten gestionar nuestra información y mostrarlas respecto a la interacción del usuario con el controlador.
+•	Los controladores son muy importantes ya que es el motor de toda nuestra página web permite mostrar vistas respondiendo a los eventos.
+•	El router es utilizado para almacenar todas las direcciones y su equivalencia.
+•	Las líneas de código en la carpeta router se ejecutan de arriba abajo y mientras no se encuentre una continua con la siguiente.
+Observaciones
+•	Se editó la carpeta validación para que pueda gestionar todo respecto a la identificación del usuario.
+•	Se crearon las vistas y se implementaron los campos de interacción con el usuario.
+•	Se crearon los respectivos controladores para la navegación.
+•	Autentícate tenía un método que comentamos ya que controlaba la validación generada por defecto por laravel.
+•	Se controlaron los eventos por botones que ejecutaban direcciones administradas por los Controladores.
