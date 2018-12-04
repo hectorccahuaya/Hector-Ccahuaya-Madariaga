@@ -1,0 +1,11 @@
+Conclusiones:
+*La importancia de los request en un proyecto es grande ya que son necesarios para las diferentes actividades. 
+*Es importante colocar los mensajes de éxito y error ya que guían al usuario y permiten mostrar en que parte el usuario se está equivocando, nos permiten tener una página web más interactiva y entendible.
+*Todo respecto a visualizar fotos y álbumes es controlado por el id ya sea para mostrar una foto especifica o para mostrar los álbumes respectivos al usuario.
+*Se da uso de sha1 para cifrar el nombre de la foto para evitar duplicidad.
+*En el request también se controla la cantidad y el peso del dato que vamos a ingresar.
+Observaciones:
+*Las vistas en este caso nos permiten mostrar la data procesada, estas vistas están clasificadas y actúan en respuesta a las actualizaciones de la bd.
+*Es importante tener el respectivo permiso para el acceso a la información de los archivos del ordenador, en nuestro caso a la dirección del directorio, la imagen.  
+*getcwd nos permite obtener el directorio de origen del archivo.
+*En el momento de ingresar una foto el tipo de input es “file” que permite agregar un dpcumento del ordenador

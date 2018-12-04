@@ -1,0 +1,11 @@
+Conclusiones:
+*Se ve como se implementa los get y post en los controladores para actualizar ya sean los álbumes, o las fotos.
+*Cuando actualizamos un campo se implementa otro input para dar el id además del dato que queremos actualizar para que se pueda saber que álbum será editado.
+*Se implementa también los controladores para que ya no retornen una cadena te texto, ahora retornara una vista en este caso retornara la vista requerida.
+*En las post y get se utiliza los request para obtener toda la información requerida y pueda ser actualizada.
+*También en un get de un controlador podemos enviar datos aparte de enviar vistas, esto para poder visualizarlas en las vistas o también para que los valores de estas variables puedan ser utilizadas ahí.
+Observaciones:
+*En este laboratorio también se implementa todo lo necesario a las vistas de actualizar y eliminar datos.
+*También se implementa todos los mensajes de éxito en el caso que el proceso no presente alguna falla.  
+*En los post y get de los controladores también retornamos un whit que contiene los mensajes que serán evaluados en las vistas dependiendo si el proceso se realizó correctamente.
+*usamos el comando find para realizar una búsqueda de un dato requerido, en este caso lo utilizamos para ver el id y nos retorne los álbumes que contiene dicho id.

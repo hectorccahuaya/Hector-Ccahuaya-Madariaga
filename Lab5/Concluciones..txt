@@ -1,0 +1,12 @@
+Conclusiones:
+*Los request son funciones privadas del servidor wamp y los cuales devuelven una variable en formato arreglo asociativo con llave y valor.
+*En este caso se usaron los request para diferentes actividades como el caso de actualizar perfil.
+*Las funciones ya sean post o get en un controlador en nuestro caso para ya sea actualizar una foto fue necesario crear un request especifico.
+*Para tener interacción con el usuario se crean los mensajes de validación de proceso para mostrarnos un pequeño mensaje en el caso que el proceso requerido sea exitoso o no.
+*Al omento de visualizar los álbumes se crea un if en el caso que no tenga documentos mostrar un mensaje par que el usuario cree un álbum nuevo.
+Observaciones:
+*Al momento de crear las vistas también consideramos las direcciones a las que nos direccionaran.
+*Es muy importante considerar Auth en los request.
+*Artisan presenta el comando para crear un request.
+*Es muy importante considerar el request al respectivo controlador.
+*Cada función post o get de un controlador lleva al final una dirección para actualizar la pantalla o direccionar a una vista.
