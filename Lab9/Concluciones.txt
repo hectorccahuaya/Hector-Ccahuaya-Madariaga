@@ -1,0 +1,6 @@
+Conclusiones:
+•	Se implementó la funcionalidad eliminar álbum ya sea tanto de álbum o de foto, para esto le damos el id para que al eliminar el controlador sepa que álbum o foto se va a eliminar.
+•	Agregamos también el espacio del botón eliminar.
+•	Se creó las respectivas post utilizando el request indicado para que se pueda realizar la eliminación exitosa.
+•	También se implementó el campo de un mensaje exitoso en el caso que la eliminación sea un éxito.
+•	Se creó los request respectivos para eliminar ya sea fotos o álbum estos request solo servirán para realizar una búsqueda dependiendo del id.

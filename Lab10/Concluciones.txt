@@ -1,0 +1,6 @@
+Conclusiones:
+•	Se vio la manera de cómo organizar el documento para que este de columna de 3 los álbumes y las fotos en columnas de 4.
+•	Con la función de artisan se retroalimento la base de datos.
+•	Es importante considerar que al eliminar los archivos sean eliminados como archivos del servidor.
+•	Al implementar la dicha aplicación se la facilidad de laravel ya que genera todos los documentos necesarios y el programador solo lo edita para que lo moldee según requiera el usuario.
+•	Se tiene que ser cuidadoso con los campos de importación ya sea de los request que utilizaremos y otros más, ya que caso contrario no reconocerá las funciones requeridas.
